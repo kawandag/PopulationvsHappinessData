@@ -12,18 +12,18 @@ Data Analysis:
 
 How does World Happiness Index compare with other important socio, economic and political metrics?
 
-How is happiness affected by:
+Below are the factors which are analyzed for a relation with World Happiness Index.
 
-	Internet Usage: WHI_and_internet_Usage\InternetuseAnalysis.ipynb -> Compares the World Happiness Index to the percent of the population using the Internet.
+Internet Usage: WHI_and_internet_Usage\InternetuseAnalysis.ipynb -> Compares the World Happiness Index to the percent of the population using the Internet.
 
-	Latitiude & Longitude : Long_lat\Project 1 - World Happiness Long & Lat.ipynb ->  Explores possible correlations between happiness and a country's hemisphere location.
+Latitiude & Longitude : Long_lat\Project 1 - World Happiness Long & Lat.ipynb ->  Explores possible correlations between happiness and a country's hemisphere location.
 	
-	CO2 Emissions & Consumption: CO2 Emissions Analysis\CO2 Emissions.ipynb -> Analyzes relationship CO2 Emissions and Consumption  and World Happiness Index.
+CO2 Emissions & Consumption: CO2 Emissions Analysis\CO2 Emissions.ipynb -> Analyzes relationship CO2 Emissions and Consumption  and World Happiness Index.
 	
-	Population Density: population density\Project 1_PopulationvsHappinessData.ipynb -> Analyzes relationship between Population density and World Happiness Index.
+Population Density: population density\Project 1_PopulationvsHappinessData.ipynb -> Analyzes relationship between Population density and World Happiness Index.
 	
-	Water Supply & Sanitation: watersanitation/waterSanitationVsWHI.ipynb -> Analyzes relationship between Water Supply & Sanitation with World Happiness Index.
+Water Supply & Sanitation: watersanitation/waterSanitationVsWHI.ipynb -> Analyzes relationship between Water Supply & Sanitation with World Happiness Index.
 	
-	Consumer Food Prices: Consumer Price Index Analysis/WHIvsFoodPrices.ipynb -> Analyzes relationship between Consumer Food Prices and World Happiness Index.
+Consumer Food Prices: Consumer Price Index Analysis/WHIvsFoodPrices.ipynb -> Analyzes relationship between Consumer Food Prices and World Happiness Index.
 	
-	Governance Metrics: Governance Metrics Analysis/HappinessIndexVsGovernanceMetrics.ipynb -> Analyzes relationship between Governance Metrics and World Happiness Index.
+Governance Metrics: Governance Metrics Analysis/HappinessIndexVsGovernanceMetrics.ipynb -> Analyzes relationship between Governance Metrics and World Happiness Index.
