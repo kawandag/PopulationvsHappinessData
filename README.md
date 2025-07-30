@@ -1,6 +1,6 @@
 # 🌍 World Happiness Index: A Cross-Metric Analysis
 
-This project explores how the **World Happiness Index (WHI)** correlates with a range of important **socioeconomic, environmental, and political indicators**. The goal is to understand whether happiness levels across countries can be explained or predicted by other measurable factors such as internet usage, CO₂ emissions, governance, and more.
+This project explores how the **World Happiness Index (WHI)** correlates with a range of important socioeconomic, environmental, and political indicators. The goal is to understand whether happiness levels across countries can be explained or predicted by other measurable factors such as internet usage, CO₂ emissions, governance, and more.
 
 ---
 
