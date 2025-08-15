@@ -6,7 +6,7 @@ This project explores how the **World Happiness Index (WHI)** correlates with a 
 
 ## 🖥️ Presentation Slide Deck  
 View the complete project presentation:  
-[**World Happiness Index Slide Deck**](https://docs.google.com/presentation/d/1QmBApzvcy_BXuLOb2NavdxxAJ9PuK8d4y1kf6p6_3yU/edit?usp=sharing)
+[**World Happiness Index Slide Deck**](https://docs.google.com/presentation/d/e/2PACX-1vRaShmeR9hyph6LR_Dy3nwkJRifTp3Cn5e--SofeIQF-6j4lf3wjiqwQew3IU1zcDEnOisMorLPY35P/pub?start=true&loop=false&delayms=3000)
 
 ---
 
